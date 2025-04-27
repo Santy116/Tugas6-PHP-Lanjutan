@@ -32,8 +32,8 @@
             ?>
         </table>
         <br><br>
-        <a href="Biodata.php">Lihat Siapa yang Buat 🌸</a>
-        <a href="Soal1.php">Ini Jawaban Soal Nomor 1</a>
+        <a href="Biodata.php">Lihat Siapa yang Buat 🌸</a><br>
+        <a href="Soal1.php">Ini Jawaban Soal Nomor 1</a><br>
         <a href="Soal2.php">Ini Jawaban Soal Nomor 2</a>
     </div>
 </body>

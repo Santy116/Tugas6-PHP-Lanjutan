@@ -31,6 +31,7 @@
                 }
             ?>
         </table>
+        <a href="Biodata.php">Lihat Siapa yang Buat 🌸</a>
     </div>
 </body>
 </html>

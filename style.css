@@ -14,16 +14,6 @@ h1 {
     text-align: center;
 }
 
-.genap {
-    display: inline-block;
-    margin: 5px;
-    padding: 10px 15px;
-    background-color: #4CAF50;
-    color: white;
-    border-radius: 8px;
-    font-size: 18px;
-}
-
 table {
     margin: 0 auto;
     border-collapse: collapse;
@@ -37,9 +27,9 @@ th, td {
     font-size: 18px;
 }
 
-th {
-    background-color: limegreen;
-    color: white;
+th.hijau {
+    background-color: lime;
+    color: black;
 }
 
 td.kuning {
